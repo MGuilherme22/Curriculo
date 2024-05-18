@@ -25,6 +25,8 @@ main{
     width: 200px;
     height: 100%;
     float: left;
+    padding-bottom: 10px;
+    padding-top: 50px;
 }
 .right{
     width: 450px;
@@ -113,13 +115,16 @@ i{
     padding: 18px 10px;
     font-size: 22px !important;
 }
+.h-div a i{
+    padding: 18px 10px;
+    font-size: 22px !important;
+    text-decoration: none;
+    color: #000;
+}
 .name-div{
     padding: 86px 0px 60px 100px;
     text-align: left;
     letter-spacing: 3px;
-}
-.name-div{
-    margin-bottom: 10px;
 }
 .box-2{
     padding: 0px 50px;
@@ -132,6 +137,7 @@ i{
     word-spacing: 2px;
     line-height: 18px;
     margin-top: 5px;
+    margin-bottom: 32px;
 }
 h2{
     font-size: 16px;
